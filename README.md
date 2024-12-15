@@ -1,7 +1,7 @@
 # UAS_DP5
 Nama Project : Sistem Nilai Mahasiswa
 
-Nama Kelompok : Kelompok Kurang Tidur
+Nama Kelompok : Kelompok Kulang Tidur
 
 Anggota Kelompok :
 1. El Fahreza Sufi - 241401042
